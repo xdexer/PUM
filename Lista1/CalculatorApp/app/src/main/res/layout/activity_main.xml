@@ -142,7 +142,7 @@
                     android:id="@+id/button_0"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_weight="1"
+                    android:layout_weight="16"
                     android:text="0"
                     android:onClick="appendResult"/>
 
@@ -168,7 +168,7 @@
                     android:id="@+id/button_equal"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:layout_weight="1"
+                    android:layout_weight="30"
                     android:text="="
                     android:onClick="evaluateResult"
                     />
