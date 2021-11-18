@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="prev">PREV</string>
+    <string name="next">NEXT</string>
+    <string-array name="questions_array">
+        <item>A person can survive two weeks without water</item>
+        <item>Programmers have the highest suicide rate amongst professions</item>
+        <item>Adding salt to gypsum will fasten its binding</item>
+        <item>Sound can travel through vacuum</item>
+        <item>A person can get sunburned on a cloudy day</item>
+        <item>The most frequent subconscious activity repeated by the human body is blinking</item>
+        <item>Type 1 diabetes is a result of the liver working improperly</item>
+        <item>Salt is 100% composed of Sodium</item>
+        <item>Psychology is the science of behavior and mind</item>
+        <item>Mobile devices programming is the best course at the University</item>
+    </string-array>
+    <string-array name="answers_array">
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+        <item>False</item>
+        <item>True</item>
+        <item>False</item>
+        <item>False</item>
+        <item>False</item>
+        <item>True</item>
+        <item>True</item>
+    </string-array>
+    <string name="back">Back</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="cheat">CHEAT</string>
+    <string name="restart">RESTART</string>
+    <string name="summary">Congratulations, your score is: </string>
+    <string name="search">SEARCH</string>
+</resources>
