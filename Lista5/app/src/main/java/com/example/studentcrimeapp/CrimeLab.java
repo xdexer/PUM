@@ -45,7 +45,7 @@ public class CrimeLab{
 //                    crime.setTitle("Crime #" + i);
 //                    crime.setSolved(i % 2 == 0);
 //
-//                    CrimeLab.get(context).getCrimeDatabase().crimeDao().insert(crime);
+//                    crimeDatabase.crimeDao().insert(crime);
 //                }
 //                return null;
 //            }
@@ -57,7 +57,7 @@ public class CrimeLab{
 //        class GetCrimes extends AsyncTask<Void, Void, Void> {
 //            @Override
 //            protected Void doInBackground(Void... voids) {
-//                mCrimes = CrimeLab.get(context).getCrimeDatabase().crimeDao().getAll();
+//                mCrimes = crimeDatabase.crimeDao().getAll();
 //                return null;
 //            }
 //
