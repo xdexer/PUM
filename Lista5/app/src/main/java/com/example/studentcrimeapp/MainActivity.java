@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onDestroy(){
         super.onDestroy();
-        CrimeDatabase.getInstance(this).close();
     }
 
     CrimeAdapter cr;
